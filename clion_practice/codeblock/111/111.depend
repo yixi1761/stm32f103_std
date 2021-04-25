@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1544413383 source:/home/ansel/c_parctice/codeblock/main.c
+	<stdio.h>
+	"util.h"
+	"time.h"
+
+1544146323 /home/ansel/c_parctice/codeblock/util.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<termios.h>
+	<errno.h>
+	<string.h>
+	<time.h>
+
+1544146114 source:/home/ansel/c_parctice/codeblock/util.c
+	"util.h"
+

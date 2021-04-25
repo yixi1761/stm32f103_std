@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543655359 source:d:\dev_cpp\file_1\openfile.cpp
+	<stdio.h>
+	<unistd.h>
+

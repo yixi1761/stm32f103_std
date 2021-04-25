@@ -1,0 +1,3 @@
+/home/ansel/c_parctice/ywbox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ansel/c_parctice/ywbox/cmake-build-debug/CMakeFiles/ywbox.dir
+/home/ansel/c_parctice/ywbox/cmake-build-debug/CMakeFiles/edit_cache.dir

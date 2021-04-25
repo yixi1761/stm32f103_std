@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ywbox.dir/main.c.o CMakeFiles/ywbox.dir/src/voltameter.c.o CMakeFiles/ywbox.dir/src/io_check_ctl.c.o CMakeFiles/ywbox.dir/src/led_display.c.o CMakeFiles/ywbox.dir/src/temperature.c.o  -o ywbox 

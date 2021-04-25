@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/10_hlw8032.dir/main.c.o CMakeFiles/10_hlw8032.dir/hlw8032.c.o CMakeFiles/10_hlw8032.dir/util.c.o  -o 10_hlw8032 

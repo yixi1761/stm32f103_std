@@ -1,0 +1,13 @@
+.\objects\can.o: USER\can.c
+.\objects\can.o: USER\can.h
+.\objects\can.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+.\objects\can.o: .\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\can.o: .\CMSIS\CM3\CoreSupport\core_cm3.h
+.\objects\can.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\can.o: .\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\objects\can.o: .\USER\stm32f10x_conf.h
+.\objects\can.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\can.o: .\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\can.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\can.o: .\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\objects\can.o: USER\gpio.h

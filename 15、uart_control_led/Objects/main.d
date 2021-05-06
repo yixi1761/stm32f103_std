@@ -1,0 +1,14 @@
+.\objects\main.o: USER\main.c
+.\objects\main.o: USER\led.h
+.\objects\main.o: .\ST\STM32F10X.h
+.\objects\main.o: .\CMSIS\core_cm3.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: .\ST\system_stm32f10x.h
+.\objects\main.o: .\ST\stm32f10x_conf.h
+.\objects\main.o: .\DRIVER\stm32f10x_gpio.h
+.\objects\main.o: .\ST\stm32f10x.h
+.\objects\main.o: .\DRIVER\stm32f10x_rcc.h
+.\objects\main.o: .\DRIVER\misc.h
+.\objects\main.o: USER\delay.h
+.\objects\main.o: USER\usart.h
+.\objects\main.o: .\DRIVER\stm32f10x_usart.h

@@ -1,0 +1,16 @@
+.\output\iwdg.o: IWDG.c
+.\output\iwdg.o: .\APP\IWDG.h
+.\output\iwdg.o: .\STM32F10X\stm32f10x.h
+.\output\iwdg.o: .\CMSIS\core_cm3.h
+.\output\iwdg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\iwdg.o: .\STM32F10X\system_stm32f10x.h
+.\output\iwdg.o: .\STM32F10X\stm32f10x_conf.h
+.\output\iwdg.o: .\StdPeriph_Driver\inc\stm32f10x_exti.h
+.\output\iwdg.o: .\STM32F10X\stm32f10x.h
+.\output\iwdg.o: .\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\output\iwdg.o: .\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\output\iwdg.o: .\StdPeriph_Driver\inc\stm32f10x_rtc.h
+.\output\iwdg.o: .\StdPeriph_Driver\inc\stm32f10x_usart.h
+.\output\iwdg.o: .\StdPeriph_Driver\inc\stm32f10x_wwdg.h
+.\output\iwdg.o: .\StdPeriph_Driver\inc\misc.h
+.\output\iwdg.o: .\StdPeriph_Driver\inc\stm32f10x_iwdg.h

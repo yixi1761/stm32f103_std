@@ -1,0 +1,71 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.20.0.39
+Copyright (C) 2016 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: a a, a, LIC=65IBS-L0HFH-QBHEE-54A6M-B0KQ5-F3NTQ
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.17
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 1 (build 61)
+Assembler:       Armasm.exe V5.06 update 1 (build 61)
+Linker/Locator:  ArmLink.exe V5.06 update 1 (build 61)
+Library Manager: ArmAr.exe V5.06 update 1 (build 61)
+Hex Converter:   FromElf.exe V5.06 update 1 (build 61)
+CPU DLL:         SARMCM3.DLL V5.17
+Dialog DLL:      DCM.DLL V1.13.4.0
+Target DLL:      UL2CM3.DLL V1.156.1.0
+Dialog DLL:      TCM.DLL V1.14.6.0
+ 
+<h2>Project:</h2>
+D:\00¡¢STM32\_stm32¡ª¡ªÁ·Ï°\14¡¢RTC\RTC.uvprojx
+Project File Date:  01/29/2018
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 1 (build 61)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Rebuild target 'TIMER3'
+assembling startup_stm32f10x_hd.s...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling misc.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_bkp.c...
+compiling stm32f10x_pwr.c...
+compiling stm32f10x_rtc.c...
+compiling led.c...
+compiling main.c...
+USER\main.c(13): warning:  #223-D: function "printf" declared implicitly
+  	usart_init();	printf ("\nSTART!\n");
+USER\main.c: 1 warning, 0 errors
+compiling delay.c...
+compiling usart.c...
+USER\usart.c(54): warning:  #223-D: function "delay_simple" declared implicitly
+  		delay_simple(500000);
+USER\usart.c: 1 warning, 0 errors
+compiling rtc.c...
+USER\rtc.c(32): warning:  #223-D: function "printf" declared implicitly
+  			printf("è¶?æ—?!\r\n");
+USER\rtc.c(47): warning:  #223-D: function "printf" declared implicitly
+  		printf ("\n4\n");
+USER\rtc.c(67): warning:  #223-D: function "printf" declared implicitly
+  		printf("TIME:%d / %d / %d  %d:%d:%d\n",calendarstruct.year,calendarstruct.month,calendarstruct.day,
+USER\rtc.c: 3 warnings, 0 errors
+linking...
+Program Size: Code=3976 RO-data=336 RW-data=24 ZI-data=1040  
+FromELF: creating hex file...
+".\Objects\RTC.axf" - 0 Error(s), 5 Warning(s).
+
+<h2>Collection of Component include folders:</h2>
+  D:\00¡¢STM32\_stm32¡ª¡ªÁ·Ï°\14¡¢RTC\RTE
+  C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+Build Time Elapsed:  00:00:03
+</pre>
+</body>
+</html>

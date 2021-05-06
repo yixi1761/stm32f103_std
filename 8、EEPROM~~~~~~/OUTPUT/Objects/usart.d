@@ -1,0 +1,14 @@
+.\output\objects\usart.o: APP\USART.c
+.\output\objects\usart.o: APP\USART.H
+.\output\objects\usart.o: .\StdPeriph_Driver\inc\stm32f10x_usart.h
+.\output\objects\usart.o: .\STM32F10X\stm32f10x.h
+.\output\objects\usart.o: .\CMSIS\core_cm3.h
+.\output\objects\usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\objects\usart.o: .\STM32F10X\system_stm32f10x.h
+.\output\objects\usart.o: .\STM32F10X\stm32f10x_conf.h
+.\output\objects\usart.o: .\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\output\objects\usart.o: .\STM32F10X\stm32f10x.h
+.\output\objects\usart.o: .\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\output\objects\usart.o: .\StdPeriph_Driver\inc\stm32f10x_usart.h
+.\output\objects\usart.o: .\StdPeriph_Driver\inc\misc.h
+.\output\objects\usart.o: APP\GPIO.H

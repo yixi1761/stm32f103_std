@@ -1,0 +1,11 @@
+.\objects\stm32f10x_bkp.o: DRIVER\stm32f10x_bkp.c
+.\objects\stm32f10x_bkp.o: DRIVER\stm32f10x_bkp.h
+.\objects\stm32f10x_bkp.o: .\ST\stm32f10x.h
+.\objects\stm32f10x_bkp.o: .\CMSIS\core_cm3.h
+.\objects\stm32f10x_bkp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f10x_bkp.o: .\ST\system_stm32f10x.h
+.\objects\stm32f10x_bkp.o: .\ST\stm32f10x_conf.h
+.\objects\stm32f10x_bkp.o: .\DRIVER\stm32f10x_gpio.h
+.\objects\stm32f10x_bkp.o: .\ST\stm32f10x.h
+.\objects\stm32f10x_bkp.o: .\DRIVER\stm32f10x_rcc.h
+.\objects\stm32f10x_bkp.o: .\DRIVER\misc.h

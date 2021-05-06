@@ -1,0 +1,12 @@
+.\objects\timer.o: USER\timer.c
+.\objects\timer.o: USER\timer.h
+.\objects\timer.o: .\ST\STM32F10X.h
+.\objects\timer.o: .\CMSIS\core_cm3.h
+.\objects\timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\timer.o: .\ST\system_stm32f10x.h
+.\objects\timer.o: .\ST\stm32f10x_conf.h
+.\objects\timer.o: .\DRIVER\stm32f10x_gpio.h
+.\objects\timer.o: .\ST\stm32f10x.h
+.\objects\timer.o: .\DRIVER\stm32f10x_rcc.h
+.\objects\timer.o: .\DRIVER\misc.h
+.\objects\timer.o: .\DRIVER\stm32f10x_tim.h

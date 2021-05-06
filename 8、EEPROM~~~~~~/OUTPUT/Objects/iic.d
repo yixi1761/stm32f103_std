@@ -1,0 +1,16 @@
+.\output\objects\iic.o: APP\IIC.c
+.\output\objects\iic.o: .\StdPeriph_Driver\inc\stm32f10x_i2c.h
+.\output\objects\iic.o: .\STM32F10X\stm32f10x.h
+.\output\objects\iic.o: .\CMSIS\core_cm3.h
+.\output\objects\iic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\objects\iic.o: .\STM32F10X\system_stm32f10x.h
+.\output\objects\iic.o: .\STM32F10X\stm32f10x_conf.h
+.\output\objects\iic.o: .\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\output\objects\iic.o: .\STM32F10X\stm32f10x.h
+.\output\objects\iic.o: .\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\output\objects\iic.o: .\StdPeriph_Driver\inc\stm32f10x_usart.h
+.\output\objects\iic.o: .\StdPeriph_Driver\inc\misc.h
+.\output\objects\iic.o: APP\IIC.H
+.\output\objects\iic.o: .\USER\Delay.H
+.\output\objects\iic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\objects\iic.o: APP\GPIO.H

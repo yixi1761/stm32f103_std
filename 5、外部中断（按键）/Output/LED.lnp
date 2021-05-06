@@ -1,0 +1,14 @@
+--cpu Cortex-M3
+".\output\startup_stm32f10x_hd.o"
+".\output\system_stm32f10x.o"
+".\output\core_cm3.o"
+".\output\misc.o"
+".\output\stm32f10x_gpio.o"
+".\output\stm32f10x_rcc.o"
+".\output\main.o"
+".\output\stm32f10x_it.o"
+".\output\gpio.o"
+--strict --scatter ".\Output\LED.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Output\LED.map" -o .\Output\LED.axf

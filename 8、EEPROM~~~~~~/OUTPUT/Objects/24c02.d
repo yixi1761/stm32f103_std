@@ -1,0 +1,16 @@
+.\output\objects\24c02.o: APP\24c02.c
+.\output\objects\24c02.o: APP\24c02.H
+.\output\objects\24c02.o: .\STM32F10X\STM32F10X.h
+.\output\objects\24c02.o: .\CMSIS\core_cm3.h
+.\output\objects\24c02.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\objects\24c02.o: .\STM32F10X\system_stm32f10x.h
+.\output\objects\24c02.o: .\STM32F10X\stm32f10x_conf.h
+.\output\objects\24c02.o: .\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\output\objects\24c02.o: .\STM32F10X\stm32f10x.h
+.\output\objects\24c02.o: .\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\output\objects\24c02.o: .\StdPeriph_Driver\inc\stm32f10x_usart.h
+.\output\objects\24c02.o: .\StdPeriph_Driver\inc\misc.h
+.\output\objects\24c02.o: APP\IIC.h
+.\output\objects\24c02.o: .\USER\Delay.H
+.\output\objects\24c02.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\objects\24c02.o: APP\GPIO.H

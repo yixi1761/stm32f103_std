@@ -11,9 +11,7 @@
 # Top-level generic files
 #
 *.o
-*~
+*.hex
 *.py[cod]
 *.log
-
-/docker_compose/django_blog.tar
 
